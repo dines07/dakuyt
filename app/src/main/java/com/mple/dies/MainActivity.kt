@@ -1,4 +1,4 @@
-package com.mple.dies
+package com.mple.dies.gitpractice
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
